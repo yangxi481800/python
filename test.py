@@ -4,7 +4,7 @@ version:
 Author: yangxi
 Date: 2023-09-25 17:11:19
 LastEditors: yangxi
-LastEditTime: 2023-10-08 16:19:21
+LastEditTime: 2023-10-08 16:20:05
 '''
 from tkinter import *
 root = Tk()
